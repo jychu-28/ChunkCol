@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Logs
+*.log
+nohup.out
+
+# Large genome inputs
+*.fa
+*.fna
+*.fasta
+*.fa.fai
+*.fna.fai
+*.fasta.fai
+
+# Pipeline outputs
+split_100M/
+01_paf/
+syri_full/
+*.paf
+*.vcf
+*.summary
+*.out
+*.png
+*.pdf
+
+# Temporary files
+tmp/
+*.tmp
+
