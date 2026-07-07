@@ -1,4 +1,4 @@
-﻿# SyRI Genome Collinearity Pipeline
+﻿# ChunkCol: Chunk-based collinearity plotting for ultra-large genomes
 
 A chunk-based strategy designed **specifically for ultra-large genomes, using peony (*Paeonia*) as an example**, especially when a single chromosome can exceed **2 Gb** and direct whole-chromosome alignment becomes difficult to run efficiently.
 
